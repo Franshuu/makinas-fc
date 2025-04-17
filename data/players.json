@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name": "Juan Pérez",
+        "position": "Delantero",
+        "number": 9
+    },
+    {
+        "name": "Carlos López",
+        "position": "Portero",
+        "number": 1
+    },
+    {
+        "name": "Pedro García",
+        "position": "Defensa",
+        "number": 4
+    }
+]
